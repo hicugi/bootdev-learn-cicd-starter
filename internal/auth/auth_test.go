@@ -1,9 +1,9 @@
 package auth
 
 import (
-	"testing"
-	"net/http"
 	"fmt"
+	"net/http"
+	"testing"
 )
 
 func TestAuth(t *testing.T) {
